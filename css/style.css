@@ -101,9 +101,14 @@ body {
   height: 100%;
   color: #161C24;
   overflow-x: hidden;
+  position: fixed;
+  width: 100%;
 }
 
 .page {
+  overflow-x: hidden;
+  position: fixed;
+  width: 100%;
   min-height: 100%;
   overflow: hidden;
   display: -webkit-box;
